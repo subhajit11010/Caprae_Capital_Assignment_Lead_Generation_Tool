@@ -1,0 +1,38 @@
+[
+  {
+    "company_name": "Sansan, Inc.",
+    "industry_type": "Software Development (Cloud-based contact management services)",
+    "location": "Shibuya-ku, Tokyo, Japan",
+    "company_size": "1,570 employees",
+    "address": "Shibuya-ku, Tokyo, Japan",
+    "phone": null,
+    "email": null,
+    "approx_revenue": "Approximately $160 million USD (FY2023)",
+    "business_type": "Both B2B and B2C",
+    "website_url": "https://www.corp-sansan.com/en/company/"
+  },
+  {
+    "company_name": "AnyMind Group Inc.",
+    "industry_type": "Software Development (Commerce enablement solutions, e-commerce, marketing, logistics platforms)",
+    "location": "Tokyo, Japan",
+    "company_size": "1,500+ employees",
+    "address": "Tokyo, Japan",
+    "phone": null,
+    "email": null,
+    "approx_revenue": "Approximately $170 million USD (FY2023)",
+    "business_type": "Both B2B and B2C",
+    "website_url": "https://anymindgroup.com/"
+  },
+  {
+    "company_name": "Open8 Inc.",
+    "industry_type": "Software Development (AI-powered video creation and distribution platforms)",
+    "location": "Shibuya-ku, Tokyo, Japan",
+    "company_size": "180 employees",
+    "address": "Shibuya-ku, Tokyo, Japan",
+    "phone": null,
+    "email": null,
+    "approx_revenue": "Approximately $25 million USD",
+    "business_type": "Both B2B and B2C",
+    "website_url": "https://open8.com/en/"
+  }
+]

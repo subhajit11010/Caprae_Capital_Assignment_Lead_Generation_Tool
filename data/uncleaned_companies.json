@@ -1,0 +1,79 @@
+{
+  "companies": [
+    {
+      "company_name": "Oracle",
+      "industry_type": "Software Development, Cloud Computing, Database Technology",
+      "location": "Bangalore, India",
+      "company_size": "170000",
+      "street": "Bagmane Tech Park, Outer Ring Road, Doddanekundi Village, Mahadevapura",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "phone": "91-80-41070000",
+      "email": "",
+      "approx_revenue": "$53 billion",
+      "business_type": "B2B",
+      "website_url": "https://www.oracle.com/"
+    },
+    {
+      "company_name": "Microsoft",
+      "industry_type": "Software Development, Cloud Computing, Operating Systems",
+      "location": "Bangalore, India",
+      "company_size": "221000",
+      "street": "Microsoft Signature Building, Embassy Golf Links Business Park, Off Intermediate Ring Road, Domlur",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "phone": "080 4010 3000",
+      "email": "",
+      "approx_revenue": "$211.9 billion",
+      "business_type": "B2B",
+      "website_url": "https://www.microsoft.com/en-in"
+    },
+    {
+      "company_name": "Accenture",
+      "industry_type": "IT Services, Consulting, Software Development",
+      "location": "Bangalore, India",
+      "company_size": "733000",
+      "street": "1, Old Madras Road, Bagmane Constellation Business Park, Doddanekundi, Marathahalli",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "phone": "91-80-62150000",
+      "email": "",
+      "approx_revenue": "$64.1 billion",
+      "business_type": "B2B",
+      "website_url": "https://www.accenture.com/in-en"
+    },
+    {
+      "company_name": "Infosys",
+      "industry_type": "IT Services, Business Consulting, Software Development, Outsourcing",
+      "location": "Bangalore, India",
+      "company_size": "317000",
+      "street": "Plot No. 44 and 97A, Electronics City, Hosur Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "phone": "080 2852 0261",
+      "email": "",
+      "approx_revenue": "$18.2 billion",
+      "business_type": "B2B",
+      "website_url": "https://www.infosys.com/"
+    },
+    {
+      "company_name": "Wipro",
+      "industry_type": "IT Services, Consulting, Business Process Services, Software Development",
+      "location": "Bangalore, India",
+      "company_size": "240000",
+      "street": "Doddakannelli, Sarjapur Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "phone": "080 2844 0011",
+      "email": "",
+      "approx_revenue": "$10.8 billion",
+      "business_type": "B2B",
+      "website_url": "https://www.wipro.com/"
+    }
+  ]
+}
