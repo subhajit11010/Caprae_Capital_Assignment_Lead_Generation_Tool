@@ -72,7 +72,7 @@ if st.session_state.page == "Dashboard":
             st.plotly_chart(fig_coun, use_container_width=True)
 
         with col3:
-            st.subheader("Revenue-wise Distribution")
+            st.subheader("Business type-wise Distribution")
             st.plotly_chart(fig_btype, use_container_width=True)
         
         st.subheader("Revenue-based Distribution")
