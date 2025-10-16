@@ -36,13 +36,13 @@ streamlit run app.py
 
 ## <h3>Here are some attached pics of the application at it's various stages.</h3>
 
-![Pie-charts in Dashboard](assets\as2.png)
+![Pie-charts in Dashboard](assets/as2.png)
 
-![Bar charts and lead table](assets\as3.png)
+![Bar charts and lead table](assets/as3.png)
 
-![data enhancement tool](assets\as1.png)
+![data enhancement tool](assets/as1.png)
 
-![advanced data enrichment](assets\as4.png)
+![advanced data enrichment](assets/as4.png)
 
 ![IntelliSCORE](assets/as5.png)
 
