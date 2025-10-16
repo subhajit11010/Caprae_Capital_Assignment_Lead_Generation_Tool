@@ -17,7 +17,7 @@ Further this tool generate accurate pi-charts and bar charts to help differentia
 
 1. <h3>First, clone the repository</h3>
 ```markdown
-https://github.com/subhajit11010/Caprae_Capital_Assignment_Lead_Generation_Tool.git
+git clone https://github.com/subhajit11010/Caprae_Capital_Assignment_Lead_Generation_Tool.git
 ```
 2. <h3>Open the folder in terminal and paste the below and Enter</h3>
 ```markdown
@@ -37,8 +37,12 @@ streamlit run app.py
 ## <h3>Here are some attached pics of the application at it's various stages.</h3>
 
 ![Pie-charts in Dashboard](assets\as2.png)
+
 ![Bar charts and lead table](assets\as3.png)
+
 ![data enhancement tool](assets\as1.png)
+
 ![advanced data enrichment](assets\as4.png)
+
 ![IntelliSCORE](assets/as5.png)
 
